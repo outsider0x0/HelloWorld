@@ -1,2 +1,2 @@
 # hello-world
-first test
+keeping up the Hello World tradition
